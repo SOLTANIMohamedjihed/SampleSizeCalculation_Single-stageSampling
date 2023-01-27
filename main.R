@@ -1,5 +1,5 @@
 
-library(PracTools) #
+library(PracTools) #📦
 ####################################################################### Simple Random Sampling
 ################   Sample size for a target CV ###################
 
