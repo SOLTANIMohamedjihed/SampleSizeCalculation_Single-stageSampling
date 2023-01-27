@@ -91,6 +91,9 @@ n <- V1 / (N*ybarU*CV0)^2
 # sample size for an srs to produce the same SE
 ceiling(nCont(CV0 = cv.pps, S2 = var(y), ybarU = ybarU, N = N))
 
+#
+# Variance Component Estimation in Multistage Sampling
+# link:  https://cran.r-project.org/web/packages/PracTools/vignettes/Varcomps-multistage.pdf
 
 
 
